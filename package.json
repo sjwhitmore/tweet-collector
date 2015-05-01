@@ -1,0 +1,7 @@
+{
+  "name": "tweet-collector",
+  "dependencies": {
+    "mongojs": "^0.18.2",
+    "twitter": "^1.2.5"
+  }
+}
